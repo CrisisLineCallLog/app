@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Crisis Line Call Log app
 
-You can use the [editor on GitHub](https://github.com/CrisisLineCallLog/app/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an app created to support volunteers of the crisis line to note their call times. Sorry Apple lovers, it's currently only available for Android devices.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TODO: screenshots
 
-### Markdown
+### To Install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are a few settings we'll need to change before the app can be installed. Go to Settings and choose 'Lock screen and security', 'Security or Applications' (depending on your device). Then check the box for 'Unknown Sources'. This setting allows the app to work. Don’t worry, it won’t harm your phone or tablet.
 
-```markdown
-Syntax highlighted code block
+Download the [.apk file](https://github.com/CrisisLineCallLog/app/blob/main/app-release.apk). This is the crisis line call log app, all wrapped up and ready to be installed!
 
-# Header 1
-## Header 2
-### Header 3
+Find the download in your Notifications by sliding down the notifications tray at the top, wait for the download to finish and tap on it.
 
-- Bulleted
-- List
+BOOM! Done!
 
-1. Numbered
-2. List
+You can change your settings back to what they were by going to Settings, choosing 'Lock screen and security' then 'Security and Applications', and unchecking the box for 'Unknown Sources.'
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CrisisLineCallLog/app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Note: If you don’t see the .apk in your Notifications tray after downloading, go to your apps and search for either 'My Files' or 'Downloads'. Find app-release.apk and tap on it to install.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TODO
